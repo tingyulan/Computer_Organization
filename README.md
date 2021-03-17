@@ -1,1 +1,1 @@
-# NCTU Computer Organization
+# Computer Organization
